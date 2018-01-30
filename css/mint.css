@@ -1,0 +1,27 @@
+/* ==========================================================================
+Template Name 	: Pluso
+Author				: Majoo - Uexel
+Theme Url 			: http://uexel.us/Pluso/
+Description     : Pluso 
+Website				: http://www.uexel.com
+========================================================================== */ 
+
+/* ==========================================================================
+Basic Styling
+========================================================================== */ 
+.top-navigation{
+    border-top: 5px solid #38c5a2;
+}
+.top-navigation .navbar-nav li.active a, .top-navigation .navbar-nav li.active a:hover, .top-navigation .navbar-nav li a:hover, .top-navigation .navbar-nav li a:focus, .top-navigation .navbar-nav li a:active{
+    border-bottom: 2px solid #38c5a2;
+}
+.top-nav,.circle,.timeline-last,#services-section,.login_modal_header,#footer-section,.btn-contact,.skdslider .slide-desc,.video-trigger{
+    background: #38c5a2;
+}
+#contact-section .contact-list i,.social-icons-contact ul li,#about-section h3,.team-member h3{
+    color: #38c5a2;
+}
+.navbar-default .navbar-brand.logo{
+  background: url("../img/logomint.png");
+  background-repeat: no-repeat;
+}
